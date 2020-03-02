@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: sen-regular
+font link: http://www.philatype.com/#sen
+font author: Philatype
+font author site: http://www.philatype.com/
+
+
+icon designer: LAFS
+icon designer link: /LAFS
+        
+
+fontColor: {"hex":"#EC975B"}
+bgColor: {"hex":"#fb7e14"}
+iconColor: {"hex":"#EC975B"}
+
+      
